@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "r3bkEQYKjZE7Zs6SXAFHcSEbNSahVnouAU"
+      }
+    }
+  ],
+  "payId": "pay$tigerfx.github.io"
+}
